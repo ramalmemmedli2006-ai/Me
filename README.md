@@ -95,3 +95,8 @@ A collection of beginner-friendly security tools and scripts.
 ## ⚡ Motto
 
 > Keep learning, keep building, keep securing.
+## GitHub Stats
+
+![Ramal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramalmemmedli2006&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramalmemmedli2006&layout=compact)
